@@ -1,1 +1,2 @@
 $psversiontable
+$env:computername
